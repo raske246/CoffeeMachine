@@ -10,12 +10,12 @@ public class CoffeeMachine {
         int coffeeBeans = 120;
         int disposableCups = 9;
         int money = 550;
-       /* int cupsMadeWatter = 0;
+        int cupsMadeWatter = 0;
         int cupsMadeMilk = 0;
         int cupsMadeCoffee = 0;
         int cupsMade = 0; */
 
-       /* System.out.println("Write how many ml of water the coffee machine has: ");
+        System.out.println("Write how many ml of water the coffee machine has: ");
         int waterHas = scan.nextInt();
         System.out.println("Write how many ml of milk the coffee machine has: ");
         int milkHas = scan.nextInt();
@@ -24,7 +24,7 @@ public class CoffeeMachine {
         System.out.println("Write how many cups of coffee you will need: ");
         int cupsOrdered = scan.nextInt();*/
 
-        /*if (waterHas >= water && milkHas >= milk && beanHas >= coffeeBeans) {
+        if (waterHas >= water && milkHas >= milk && beanHas >= coffeeBeans) {
             cupsMadeWatter = waterHas / water;
             cupsMadeMilk = milkHas / milk;
             cupsMadeCoffee = beanHas / coffeeBeans;
@@ -39,7 +39,7 @@ public class CoffeeMachine {
            } else if (cupsOrdered < cupsMade) {
                 int cupsMore = cupsMade - cupsOrdered;
                 System.out.println("Yes, I can make that amount of coffee (and even " + cupsMore + " more than that)");
-           }*/
+           }
 
         System.out.println("The coffee machine has:\n"
         + water + " of water\n"
