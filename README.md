@@ -1,3 +1,3 @@
 # CoffeeMachine
-<p> Hyperskill project </p>
- <p> Java for beginners </p>
+<p> Hyperskill course project </p>
+ <p> Java for beginners -> https://hyperskill.org/projects/33?category=2&track=8</p>
